@@ -3,7 +3,9 @@ import React from 'react';
 const Home = () => {
     const containerStyle = {
         fontFamily: "'Mulish', sans-serif",
+        marginLeft: '10rem',
     };
+
 
     return (
         <div className="container flex mx-auto mt-10 items-center" style={containerStyle}>
